@@ -6,6 +6,7 @@ Front-End Developer & UI Designer
 
 * 🌍  I'm based in Belgium
 * 🖥️  See my portfolio at [My Portfolio](http://gianniaccurso.be)
+* 🚀  I'm currently working at [Caracal Agency](https://caracal.agency)
 * ✉️  You can contact me at [accgianni@hotmail.com](mailto:accgianni@hotmail.com)
 * ⚡  I have a dog named Titou
 
