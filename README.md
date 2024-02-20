@@ -6,7 +6,6 @@ Front-End Developer & UI Designer
 
 * 🌍  I'm based in Belgium
 * 🖥️  See my portfolio at [My Portfolio](http://gianniaccurso.be)
-* 🚀  I'm currently working at [Caracal Agency](https://caracal.agency)
 * ✉️  You can contact me at [accgianni@hotmail.com](mailto:accgianni@hotmail.com)
 * ⚡  I have a dog named Titou
 
@@ -21,12 +20,6 @@ Front-End Developer & UI Designer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/accgianni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gianni.accurso" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/accgianni"><img src="https://github-readme-stats.vercel.app/api?username=accgianni&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="accgianni's GitHub stats" /></a>
 
 ### Support Me
 
